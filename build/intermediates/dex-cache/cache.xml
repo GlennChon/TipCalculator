@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Albright\IST972 Android Development\Assignments\GCAssignment2\GCTipCalculator1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b0acd3f3b9c3e612b9f3beb2a9776bd9854b6a06">
+        <dex dex="D:\Albright\IST972 Android Development\Assignments\GCAssignment2\GCTipCalculator1\app\build\intermediates\pre-dexed\debug\instant-run_8a1d13b4b33ba4f16913aa82503a0e9f1e7cc186.jar" />
+    </item>
+    <item
+        jar="D:\Albright\IST972 Android Development\Assignments\GCAssignment2\GCTipCalculator1\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0fb6e2e0eb39f7c2beab4dfeddd4c49e4c2fe33a">
+        <dex dex="D:\Albright\IST972 Android Development\Assignments\GCAssignment2\GCTipCalculator1\app\build\intermediates\pre-dexed\debug\classes_238c2dd6dc76c25b25d95a4161e2551233549641.jar" />
+    </item>
+
+</items>
